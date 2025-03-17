@@ -1,2 +1,3 @@
 # Cidades_LitoralSulSP
-Programa que exibe as cidades do litoral sul paulista
+Faça um programa que exiba os nomes das cidades do litoral sul de São Paulo, um em cada linha.
+
